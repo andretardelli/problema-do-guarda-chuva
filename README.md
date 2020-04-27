@@ -1,6 +1,6 @@
 # problema-do-guarda-chuva
 
-Repositório contendo o material complementar sobre o vídeo feito para a disciplina de Avaliação de Desempenho, no período de 2019/2.
+Repositório contendo o material complementar sobre o vídeo feito para a disciplina de Avaliação de Desempenho da Universidade Federal do Rio de Janeiro, no período de 2019/2.
 
 Os vídeos podem ser encontrados a partir dos seguintes links:
 
